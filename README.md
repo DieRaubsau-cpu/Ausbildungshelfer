@@ -1,6 +1,6 @@
 Vereinfache deine Ausbildungen.
-Wähle den Schultyp aus der für die Ausbildung benötigt wird..
-Wähle den Lehrgang aus den du ausbilden möchtest.
+Wähle den Schultyp aus.
+Wähle den Lehrgang aus.
 Wähle aus wie viele TN du pro Wache aubilden möchtest.
 Wähle aus wie viele eigene Klassenräume du nutzen möchtest.
 Wähle aus ob du alle Wachen oder nur "spezielle" Wachen ausbilden möchtest.
