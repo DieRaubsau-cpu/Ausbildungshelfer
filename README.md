@@ -1,4 +1,4 @@
-Mit wenigen einfachen Klicks können deine Wachen auf den Ausbildungsbedarf überprüft und dann deine Schulen sinnvoll gefüllt werden.
+Mit einigen einfachen Klicks können deine Wachen auf den Ausbildungsbedarf überprüft und dann deine Schulen sinnvoll gefüllt werden.
 Wähle den Schultyp aus der für die Ausbildung genutzt werden soll.
 Wähle den Lehrgang aus den du ausbilden möchtest.
 Wähle aus wie viele TN du pro Wache schulen möchtest.
