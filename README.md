@@ -8,3 +8,4 @@ Dann kannst du auswählen ob die TN eine andere Ausbildung schon absolviert habe
 Dann geht es los.
 Gesamtverteilung planen (lassen) Schulen vorbereiten anklicken, kurz warten und dann 
 Ausbildung starten
+Schon werden deine Helfer in deinen Schulen ausgebildet.
